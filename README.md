@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @maxwell59
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java c c++
+- 🌱 I’m currently learning  c
